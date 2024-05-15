@@ -23,7 +23,7 @@ Swerve drive is a complex drive system where there are usually 4 wheels and each
 
 Swerve drive is a very common drive base that is fast and agile, and seen a lot with high end competitive FRC bots. 
 
-To learn more and see an example of swerve drive, click [here] (SwerveCodeExample/ReadME.md)
+To learn more and see an example of swerve drive, click [here](SwerveCodeExample/ReadME.md)
 
 <div id="intake"></div>
 
@@ -49,7 +49,7 @@ Photon Vision is a vision processing system that is used to identify objects or 
 
 This vision processing really excells with multiple cameras on a robot. In 2024, 3 cameras and a orange pi were used for vision processing
 
-To learn more and see an example of photon vision set up, click [here] (PhotonVisionExample/ReadME.md). 
+To learn more and see an example of photon vision set up, click [here](PhotonVisionExample/ReadME.md). 
 
 This example consists of two cameras and assumes there is a coprocessor like an orange or raspberry pi being used. It walks through the basics of filtering the camera inputs and estimating the robot's pose. 
 
