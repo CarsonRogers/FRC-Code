@@ -1,5 +1,5 @@
-# Creating Swerve Drive
-## A swerve drive subsystem with code from FRC 461 and FRC 3175
+# Path Planner
+
 <details>
     <summary>Content</summary>
     <ol>
