@@ -35,7 +35,7 @@ Many intakes and feeders use 1-2 motors to control the subsystem, along with an 
 
 Shooters use generally use 2 or 4 motors to get enough speed to shoot the game pieces. The relative encoders of the shooter motors are used to get the RPM of the shooters.
 
-To learn more and see an exmaple of an intake, shooter, feeder, and an intake/shooter, click [here](IntakeShooterFeederExample.ReadME.md).
+To learn more and see an exmaple of an intake, shooter, feeder, and an intake/shooter, click [here](IntakeShooterFeederExample/ReadME.md).
 
 <div id="arm"></div>
 
